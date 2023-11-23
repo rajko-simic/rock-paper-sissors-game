@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigBangProject", "BigBangProject\BigBangProject.csproj", "{62E55C4D-493D-4CEC-B246-CD9759B20D22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigBangProject.Core", "BigBangProject.Core\BigBangProject.Core.csproj", "{E6EB7BB0-8F7F-4054-8798-BC1CC2C30454}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigBangProject.Externals", "BigBangProject.Externals\BigBangProject.Externals.csproj", "{2E225C17-9F0F-4019-9CE2-C34227499DDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62E55C4D-493D-4CEC-B246-CD9759B20D22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62E55C4D-493D-4CEC-B246-CD9759B20D22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62E55C4D-493D-4CEC-B246-CD9759B20D22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62E55C4D-493D-4CEC-B246-CD9759B20D22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6EB7BB0-8F7F-4054-8798-BC1CC2C30454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6EB7BB0-8F7F-4054-8798-BC1CC2C30454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6EB7BB0-8F7F-4054-8798-BC1CC2C30454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6EB7BB0-8F7F-4054-8798-BC1CC2C30454}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E225C17-9F0F-4019-9CE2-C34227499DDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E225C17-9F0F-4019-9CE2-C34227499DDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E225C17-9F0F-4019-9CE2-C34227499DDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E225C17-9F0F-4019-9CE2-C34227499DDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
